@@ -15,6 +15,6 @@ This system bridges NLP, CV, and IR into a single pipeline for smart and interpr
 
 Sample queries – “search for boats”, “motorcycle”, “I want to find images of airplane.”
    
-![SearchOutput1](assets/output1.png)
-![SearchOutput2](assets/output2.png)
-![SearchOutput3](assets/output3.png)
+![SearchOutput1](output1.png)
+![SearchOutput2](output2.png)
+![SearchOutput3](output3.png)
